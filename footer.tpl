@@ -36,7 +36,7 @@
 					<footer id="footer"  class="container">
 						<div class="row">{$HOOK_FOOTER}</div>
 						<hr style="border-color: #4a4a4a">
-						<img style="display: block; float: right; max-width: 100px;" src="https://scanbody.pl/themes/foodstore/img/payu-logo.png" alt="Akceptujemy płatności PayU"/>
+						<p class="copyright" style="display: block; float: right; color: #fff; padding-bottom: 50px;">2019 © <a style="color: #fff; text-decoration: underline;" target="_blank" rel="noopener" href="http://dwojcik.pro/">dwojcik.pro</a></p>
 					</footer>
 				</div><!-- #footer -->
 			{/if}
